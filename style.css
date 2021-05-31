@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  color: snow;
+  text-align: center;
+}
+
+.menor {
+  color: red;
+}
+
+.mayor {
+  color: blue;
+}
+
+button {
+  border: 2rem;
+  margin: 1rem;
+  padding: 0.5rem;
+  background-color: cornflowerblue;
+}
